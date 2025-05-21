@@ -134,7 +134,8 @@ Ensure to replace `YOUR_MONGODB_URL` with your actual MongoDB URL. The `PORT` va
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Shivam-Sharma-1/Dashboard.git
+git clone https://github.com/hamid559/Dashboard.git
+
 ```
 
 2. Change to the project directory:
@@ -204,7 +205,7 @@ This structure separates the client and server codebases for better organization
 
 ## Author
 
-- [@Shivam-Sharma-1](https://github.com/Shivam-Sharma-1)
+
 
 Certainly! Here's the documentation section with relevant links:
 
@@ -218,6 +219,10 @@ Certainly! Here's the documentation section with relevant links:
 - **[Mongoose Documentation](https://mongoosejs.com/docs/)**: Refer to Mongoose documentation for MongoDB object modeling in Node.js.
 - **[React Router DOM Documentation](https://reactrouter.com/web/guides/quick-start)**: Learn how to use React Router DOM for client-side routing within the application.
 
----
+## Author
 
-Feel free to adjust any sections or details according to your preferences!
+Created and maintained by **Md Hamid** – [mdhamid8320@gmail.com](mailto:mdhamid8320@gmail.com)  
+Feel free to contribute or reach out with any suggestions or feedback.
+
+
+
